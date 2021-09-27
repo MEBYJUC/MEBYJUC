@@ -1,0 +1,422 @@
+INTRODUCTION
+1.1 OVERVIEW AND PURPOSE OF THIS GUIDE
+1.1.1 THE STANDARD FOR PROJECT MANAGEMENT
+
+1.2 FOUNDATIONAL ELEMENTS
+
+ 1.2.1 PROJECTS
+   Unique product, service, or result
+   Temporary endeavor
+   Projects drive change
+   Projects enable business value creation.
+   Project Initiation Context
+
+1.2.2 THE IMPORTANCE OF PROJECT MANAGEMENT
+
+1.2.3 RELATIONSHIP OF PROJECT, PROGRAM, PORTFOLIO, AND OPERATIONS MANAGEMENT
+  1.2.3.1 OVERVIEW
+  1.2.3.2 PROGRAM MANAGEMENT
+  1.2.3.3 PORTFOLIO MANAGEMENT
+  1.2.3.5 OPERATIONS AND PROJECT MANAGEMENT
+  1.2.3.6 ORGANIZATIONAL PROJECT MANAGEMENT (OPM) AND STRATEGIES
+  Figure 1-4. Organizational Project Management
+
+
+1.2.4 COMPONENTS OF THE GUIDE
+  1.2.4.1 PROJECT AND DEVELOPMENT LIFE CYCLES
+
+    Project life cycles are independent of product life cycles, which may be produced by a project. A product life cycle 
+    is the series of phases that represent the evolution of a product, from concept through delivery, growth, maturity, and 
+    to retirement.
+
+
+   1.2.4.2 PROJECT PHASE
+   1.2.4.3 PHASE GATE
+   1.2.4.4 PROJECT MANAGEMENT PROCESSES
+   1.2.4.5 PROJECT MANAGEMENT PROCESS GROUPS
+   1.2.4.6 PROJECT MANAGEMENT KNOWLEDGE AREAS
+
+     Project Integration Management
+     Project Scope Management
+     Project Schedule Management
+     Project Cost Management
+     Project Quality Management
+     Project Resource Management
+     Project Communications Management
+     Project Risk Management
+     Project Procurement Management
+     Project Stakeholder Management
+
+1.2.4.7 PROJECT MANAGEMENT DATA AND INFORMATION
+
+1.2.5 TAILORING
+
+1.2.6 PROJECT MANAGEMENT BUSINESS DOCUMENTS
+   1.2.6.1 PROJECT BUSINESS CASE
+   1.2.6.2 PROJECT BENEFITS MANAGEMENT PLAN
+   1.2.6.3 PROJECT CHARTER AND PROJECT MANAGEMENT PLAN
+   1.2.6.4 PROJECT SUCCESS MEASURES
+
+
+----------->>
+
+THE ENVIRONMENT IN WHICH PROJECTS OPERATE
+
+  2.1 OVERVIEW
+  2.2 ENTERPRISE ENVIRONMENTAL FACTORS
+  2.2.1 EEFS INTERNAL TO THE ORGANIZATION
+  2.2.2 EEFS EXTERNAL TO THE ORGANIZATION
+
+  2.3 ORGANIZATIONAL PROCESS ASSETS
+  2.3.1 PROCESSES, POLICIES, AND PROCEDURES
+  2.3.2 ORGANIZATIONAL KNOWLEDGE REPOSITORIES
+
+2.4 ORGANIZATIONAL SYSTEMS
+ 2.4.2 ORGANIZATIONAL GOVERNANCE FRAMEWORKS
+ 2.4.2.1 GOVERNANCE FRAMEWORK
+ 2.4.2.2 GOVERNANCE OF PORTFOLIOS, PROGRAMS, AND PROJECTS
+ 2.4.3 MANAGEMENT ELEMENTS
+
+2.4.4.1 ORGANIZATIONAL STRUCTURE TYPES
+
+2.4.4.2 FACTORS IN ORGANIZATION STRUCTURE SELECTION
+2.4.4.3 PROJECT MANAGEMENT OFFICE
+
+
+3 
+
+THE ROLE OF THE PROJECT MANAGER
+
+  3.1 OVERVIEW
+  3.2 DEFINITION OF A PROJECT MANAGER
+
+  3.3 THE PROJECT MANAGER’S SPHERE OF INFLUENCE
+  3.3.1 OVERVIEW
+  3.3.2 THE PROJECT
+  3.3.3 THE ORGANIZATION
+  3.3.4 THE INDUSTRY
+
+3.3.5 PROFESSIONAL DISCIPLINE
+3.3.6 ACROSS DISCIPLINES
+3.4 PROJECT MANAGER COMPETENCES
+3.4.1 OVERVIEW
+  Technical project management
+  Leadership
+  Strategic and business management
+
+3.4.2 TECHNICAL PROJECT MANAGEMENT SKILLS
+3.4.3 STRATEGIC AND BUSINESS MANAGEMENT SKILLS
+3.4.4 LEADERSHIP SKILLS
+3.4.4.1 DEALING WITH PEOPLE
+3.4.4.2 QUALITIES AND SKILLS OF A LEADER
+3.4.4.3 POLITICS, POWER, AND GETTING THINGS DONE
+3.4.5 COMPARISON OF LEADERSHIP AND MANAGEMENT
+3.4.5.1 LEADERSHIP STYLES
+ 3.4.5.2 PERSONALITY
+ 
+
+3.5 PERFORMING INTEGRATION
+
+3.5.1 PERFORMING INTEGRATION AT THE PROCESS LEVEL
+ 3.5.2 INTEGRATION AT THE COGNITIVE LEVEL
+ 3.5.3 INTEGRATION AT THE CONTEXT LEVEL
+ 3.5.4 INTEGRATION AND COMPLEXITY
+
+PROJECT INTEGRATION MANAGEMENT
+Project Integration Management includes the processes and activities to identify, define, combine, unify, and 
+coordinate the various processes and project management activities within the Project Management Process Groups. In 
+the project management context, integration includes characteristics of unification, consolidation, communication, and 
+interrelationship. These actions should be applied from the start of the project through completion. Project Integration 
+Management includes making choices about:
+
+Resource allocation,
+Balancing competing demands,
+Examining any alternative approaches,
+Tailoring the processes to meet the project objectives, and
+ Managing the interdependencies among the Project Management Knowledge Areas.
+
+ The Project Integration Management processes are:
+4.1 Develop Project Charter—The process of developing a document that formally authorizes the existence of 
+a project and provides the project manager with the authority to apply organizational resources to project activities.
+4.2 Develop Project Management Plan—The process of defining, preparing, and coordinating all plan components 
+and consolidating them into an integrated project management plan.
+4.3 Direct and Manage Project Work—The process of leading and performing the work defined in the project 
+management plan and implementing approved changes to achieve the project’s objectives.
+4.4 Manage Project Knowledge—The process of using existing knowledge and creating new knowledge to achieve 
+the project’s objectives and contribute to organizational learning.
+4.5 Monitor and Control Project Work—The process of tracking, reviewing, and reporting overall progress to meet 
+the performance objectives defined in the project management plan.
+4.6 Perform Integrated Change Control—The process of reviewing all change requests; approving changes and 
+managing changes to deliverables, organizational process assets, project documents, and the project management 
+plan; and communicating the decisions
+4.7 Close Project or Phase—The process of finalizing all activities for the project, phase, or contract
+
+KEY CONCEPTS FOR PROJECT INTEGRATION MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT INTEGRATION MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+
+4.1 DEVELOP PROJECT CHARTER
+4.2 DEVELOP PROJECT MANAGEMENT PLAN
+4.3 DIRECT AND MANAGE PROJECT WORK
+4.4 MANAGE PROJECT KNOWLEDGE
+4.5 MONITOR AND CONTROL PROJECT WORK
+4.6 PERFORM INTEGRATED CHANGE CONTROL
+4.7 CLOSE PROJECT OR PHASE
+
+5
+PROJECT SCOPE MANAGEMENT
+KEY CONCEPTS FOR PROJECT SCOPE MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT SCOPE MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+5.1 PLAN SCOPE MANAGEMENT
+5.2 COLLECT REQUIREMENTS
+5.3 DEFINE SCOPE
+5.4 CREATE WBS
+5.5 VALIDATE SCOPE
+5.6 CONTROL SCOPE
+
+6
+PROJECT SCHEDULE MANAGEMENT
+6.1 Plan Schedule Management—The process of establishing the policies, procedures, and documentation for 
+planning, developing, managing, executing, and controlling the project schedule.
+6.2 Define Activities—The process of identifying and documenting the specific actions to be performed to produce 
+the project deliverables.
+6.3 Sequence Activities—The process of identifying and documenting relationships among the project activities.
+6.4 Estimate Activity Durations—The process of estimating the number of work periods needed to complete 
+individual activities with the estimated resources.
+6.5 Develop Schedule—The process of analyzing activity sequences, durations, resource requirements, and 
+schedule constraints to create the project schedule model for project execution and monitoring and controlling.
+6.6 Control Schedule—The process of monitoring the status of the project to update the project schedule and 
+manage changes to the schedule baseline.
+
+KEY CONCEPTS FOR PROJECT SCHEDULE MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT SCHEDULE MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+6.1 PLAN SCHEDULE MANAGEMENT
+6.2 DEFINE ACTIVITIES
+6.3 SEQUENCE ACTIVITIES
+6.4 ESTIMATE ACTIVITY DURATIONS
+6.5 DEVELOP SCHEDULE
+6.6 CONTROL SCHEDULE
+
+7
+PROJECT COST MANAGEMENT
+Project Cost Management includes the processes involved in planning, estimating, budgeting, financing, funding, 
+managing, and controlling costs so that the project can be completed within the approved budget. The Project Cost 
+Management processes are
+
+7.1 Plan Cost Management—The process of defining how the project costs will be estimated, budgeted, managed, 
+monitored, and controlled.
+7.2 Estimate Costs—The process of developing an approximation of the monetary resources needed to complete 
+project work.
+7.3 Determine Budget—The process of aggregating the estimated costs of individual activities or work packages to 
+establish an authorized cost baseline.
+7.4 Control Costs—The process of monitoring the status of the project to update the project costs and manage 
+changes to the cost baseline.
+
+KEY CONCEPTS FOR PROJECT COST MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT COST MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+7.1 PLAN COST MANAGEMENT
+7.2 ESTIMATE COSTS
+7.3 DETERMINE BUDGET
+7.4 CONTROL COSTS
+
+8.
+PROJECT QUALITY MANAGEMENT
+Project Quality Management includes the processes for incorporating the organization’s quality policy regarding 
+planning, managing, and controlling project and product quality requirements in order to meet stakeholders’ objectives. 
+Project Quality Management also supports continuous process improvement activities as undertaken on behalf of the 
+performing organization
+
+The Project Quality Management processes are:
+8.1 Plan Quality Management—The process of identifying quality requirements and/or standards for the project 
+and its deliverables, and documenting how the project will demonstrate compliance with quality requirements and/
+or standards.
+8.2 Manage Quality—The process of translating the quality management plan into executable quality activities that 
+incorporate the organization’s quality policies into the project.
+8.3 Control Quality—The process of monitoring and recording the results of executing the quality management 
+activities to assess performance and ensure the project outputs are complete, correct, and meet customer expectations.
+
+KEY CONCEPTS FOR PROJECT QUALITY MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT QUALITY MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+8.1 PLAN QUALITY MANAGEMENT
+8.2 MANAGE QUALITY
+8.3 CONTROL QUALITY
+
+9
+PROJECT RESOURCE MANAGEMENT
+Project Resource Management includes the processes to identify, acquire, and manage the resources needed for 
+the successful completion of the project. These processes help ensure that the right resources will be available to the 
+project manager and project team at the right time and place.
+
+The Project Resource Management processes are:
+9.1 Plan Resource Management—The process of defining how to estimate, acquire, manage, and utilize physical 
+and team resources.
+9.2 Estimate Activity Resources—The process of estimating team resources and the type and quantities of 
+material, equipment, and supplies necessary to perform project work.
+9.3 Acquire Resources—The process of obtaining team members, facilities, equipment, materials, supplies, and 
+other resources necessary to complete project work.
+9.4 Develop Team—The process of improving competencies, team member interaction, and the overall team 
+environment to enhance project performance.
+9.5 Manage Team—The process of tracking team member performance, providing feedback, resolving issues, 
+and managing team changes to optimize project performance.
+9.6 Control Resources—The process of ensuring that the physical resources assigned and allocated to the 
+project are available as planned, as well as monitoring the planned versus actual use of resources, and performing 
+corrective action as necessary
+
+KEY CONCEPTS FOR PROJECT RESOURCE MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT RESOURCE MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+9.1 PLAN RESOURCE MANAGEMENT
+9.2 ESTIMATE ACTIVITY RESOURCES
+9.3 ACQUIRE RESOURCES
+9.4 DEVELOP TEAM
+9.5 MANAGE TEAM
+9.6 CONTROL RESOURCES
+
+10
+PROJECT COMMUNICATIONS MANAGEMENT
+Project Communications Management includes the processes necessary to ensure that the information needs of 
+the project and its stakeholders are met through development of artifacts and implementation of activities designed 
+to achieve effective information exchange. Project Communications Management consists of two parts. The first part 
+is developing a strategy to ensure communication is effective for stakeholders. The second part is carrying out the 
+activities necessary to implement the communication strategy
+
+10.1 Plan Communications Management—The process of developing an appropriate approach and plan for project 
+communication activities based on the information needs of each stakeholder or group, available organizational assets, 
+and the needs of the project.
+10.2 Manage Communications—The process of ensuring timely and appropriate collection, creation, distribution, 
+storage, retrieval, management, monitoring, and the ultimate disposition of project information.
+10.3 Monitor Communications—The process of ensuring the information needs of the project and its stakeholders 
+are met.
+
+KEY CONCEPTS FOR PROJECT COMMUNICATIONS MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT COMMUNICATIONS MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+10.1 PLAN COMMUNICATIONS MANAGEMENT
+10.2 MANAGE COMMUNICATIONS
+10.3 MONITOR COMMUNICATIONS
+
+11
+PROJECT RISK MANAGEMENT
+
+Project Risk Management includes the processes of conducting risk management planning, identification, analysis, 
+response planning, response implementation, and monitoring risk on a project. The objectives of project risk management 
+are to increase the probability and/or impact of positive risks and to decrease the probability and/or impact of negative 
+risks, in order to optimize the chances of project success.
+The Project Risk Management processes are:
+11.1 Plan Risk Management—The process of defining how to conduct risk management activities for a project.
+11.2 Identify Risks—The process of identifying individual project risks as well as sources of overall project risk, 
+and documenting their characteristics.
+11.3 Perform Qualitative Risk Analysis—The process of prioritizing individual project risks for further analysis 
+or action by assessing their probability of occurrence and impact as well as other characteristics.
+11.4 Perform Quantitative Risk Analysis—The process of numerically analyzing the combined effect of identified 
+individual project risks and other sources of uncertainty on overall project objectives.
+11.5 Plan Risk Responses—The process of developing options, selecting strategies, and agreeing on actions to 
+address overall project risk exposure, as well as to treat individual project risks.
+11.6 Implement Risk Responses—The process of implementing agreed-upon risk response plans.
+11.7 Monitor Risks—The process of monitoring the implementation of agreed-upon risk response plans, 
+tracking identified risks, identifying and analyzing new risks, and evaluating risk process effectiveness throughout 
+the project.
+
+KEY CONCEPTS FOR PROJECT RISK MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT RISK MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+11.1 PLAN RISK MANAGEMENT
+11.2 IDENTIFY RISKS
+11.3 PERFORM QUALITATIVE RISK ANALYSIS
+11.4 PERFORM QUANTITATIVE RISK ANALYSIS
+11.5 PLAN RISK RESPONSES
+11.6 IMPLEMENT RISK RESPONSES
+11.7 MONITOR RISKS
+
+12
+PROJECT PROCUREMENT MANAGEMENT
+Project Procurement Management includes the processes necessary to purchase or acquire products, services, 
+or results needed from outside the project team. Project Procurement Management includes the management and 
+control processes required to develop and administer agreements such as contracts, purchase orders, memoranda of 
+agreements (MOAs), or internal service level agreements (SLAs).
+
+Project Procurement Management processes include the following:
+12.1 Plan Procurement Management—The process of documenting project procurement decisions, specifying the 
+approach, and identifying potential sellers.
+12.2 Conduct Procurements—The process of obtaining seller responses, selecting a seller, and awarding a contract.
+12.3 Control Procurements—The process of managing procurement relationships, monitoring contract performance, 
+making changes and corrections as appropriate, and closing out contracts.
+
+KEY CONCEPTS FOR PROJECT PROCUREMENT MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROCUREMENT MANAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+12.1 PLAN PROCUREMENT MANAGEMENT
+12.2 CONDUCT PROCUREMENTS
+12.3 CONTROL PROCUREMENTS
+
+13
+PROJECT STAKEHOLDER MANAGEMENT
+Project Stakeholder Management includes the processes required to identify the people, groups, or organizations that 
+could impact or be impacted by the project, to analyze stakeholder expectations and their impact on the project, and to 
+develop appropriate management strategies for effectively engaging stakeholders in project decisions and execution. 
+The processes support the work of the project team to analyze stakeholder expectations, assess the degree to which 
+they impact or are impacted by the project, and develop strategies to effectively engage stakeholders in support of 
+project decisions and the planning and execution of the work of the project
+
+The Project Stakeholder Management processes are:
+13.1 Identify Stakeholders—The process of identifying project stakeholders regularly and analyzing and 
+documenting relevant information regarding their interests, involvement, interdependencies, influence, and potential 
+impact on project success.
+13.2 Plan Stakeholder Engagement—The process of developing approaches to involve project stakeholders based 
+on their needs, expectation, interests, and potential impact on the project.
+13.3 Manage Stakeholder Engagement—The process of communicating and working with stakeholders to meet 
+their needs and expectations, address issues, and foster appropriate stakeholder engagement involvement.
+13.4 Monitor Stakeholder Engagement—The process of monitoring project stakeholder relationships and tailoring 
+strategies for engaging stakeholders through the modification of engagement strategies and plans.
+
+KEY CONCEPTS FOR PROJECT STAKEHOLDER MANAGEMENT
+TRENDS AND EMERGING PRACTICES IN PROJECT STAKEHOLDER ENGAGEMENT
+TAILORING CONSIDERATIONS
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+13.1 IDENTIFY STAKEHOLDERS
+13.2 PLAN STAKEHOLDER ENGAGEMENT
+13.3 MANAGE STAKEHOLDER ENGAGEMENT
+13.4 MONITOR STAKEHOLDER ENGAGEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
